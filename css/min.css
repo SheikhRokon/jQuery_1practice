@@ -1,0 +1,32 @@
+#test1{
+    color: rgb(42, 165, 104);
+    text-align: center;
+    background-color: lightblue;
+    margin: 5px;
+    padding: 2px;
+    width: 350px;
+    height: 200px;
+    border: 1px solid red;
+}
+#test2{
+    color: rgb(226, 9, 56);
+    text-align: center;
+    background-color: lightblue;
+    margin: 5px;
+    padding: 2px;
+    width: 350px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+.ff{
+    margin: 50px;
+}
+
+.first_box{
+    background-color: bisque;
+    width: 300px;
+    height: 100px;
+    overflow: auto;
+    padding: 5px;
+}
